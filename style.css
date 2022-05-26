@@ -1,0 +1,12 @@
+#swiss div{
+	display: inline-block;
+	border: none;
+	height: 20px;
+	width: 20px;
+	margin: -2px;
+	background-color: red;
+}
+    
+#swiss .white{
+	background-color: white;
+}
